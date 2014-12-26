@@ -3,7 +3,9 @@
 
 int main(void) {
 
-  printf("First file on github");
+  printf("First file on github\n");
+  printf("Now is is time for some fun!\n");
+
 
   return 0;
 
